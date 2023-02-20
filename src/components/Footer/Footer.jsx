@@ -16,7 +16,8 @@ function Footer() {
       <span className='footer__line'></span>
       <div className='container'>
         <p className='footer__text'>©2023. Barcha hizmatlar litsenziyalangan</p>
-      </div>
+        </div>
+        <h1>salom</h1>
     </footer>
   )
 }
